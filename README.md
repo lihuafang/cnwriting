@@ -5,7 +5,7 @@
 ## 1学术边角料
 与学术这件事有关的一切。
 
-## 2翻书党人札记
+## [2翻书党人札记](https://github.com/lihuafang/cnwriting/tree/%E7%BF%BB%E4%B9%A6%E5%85%9A)
 主要是阅读笔记和书评。
 
 ## 3教师手记
