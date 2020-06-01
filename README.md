@@ -11,6 +11,6 @@
 ## 3教师手记
 主要是从教以来的一些感想。
 
-## 4远观中国
+## [4远观中国](https://github.com/lihuafang/cnwriting/tree/%E8%BF%9C%E8%A7%82%E4%B8%AD%E5%9B%BD)
 主要是对中国公共事务的评论。
 
